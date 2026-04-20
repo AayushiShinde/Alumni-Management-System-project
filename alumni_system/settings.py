@@ -1,8 +1,11 @@
 import os
 from pathlib import Path
-from dotenv import load_dotenv
 
-load_dotenv()
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except:
+    pass
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
