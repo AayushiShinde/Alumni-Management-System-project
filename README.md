@@ -14,3 +14,4 @@ News and Announcements: A dedicated section to share news, success stories, and 
 Frontend:  HTML, CSS
 Backend:  Python (Django)
 Database: MySQL
+<img width="514" height="616" alt="Screenshot 2026-04-12 132113" src="https://github.com/user-attachments/assets/9ae372e4-883f-475c-ac84-70eec801950c" />
